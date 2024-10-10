@@ -1,2 +1,2 @@
-# CS-231N
+# Placeholder
 Model Code and Source
